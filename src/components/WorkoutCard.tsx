@@ -14,7 +14,7 @@ export default function WorkoutCard({ workout }: Props) {
       href={`/workout/${workout.id}`}
       className="group flex flex-col overflow-hidden rounded-xl border border-[#222] bg-[#111] transition-all hover:border-[#333] hover:shadow-lg hover:shadow-[#ccff00]/5"
     >
-      <div className="relative aspect-ratio: 4/3; overflow-hidden bg-[#1a1a1a]">
+      <div className="relative aspect-[4/3] overflow-hidden bg-[#1a1a1a]">
         <Image
           src={workout.image}
           alt={workout.name}
