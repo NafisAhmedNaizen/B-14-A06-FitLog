@@ -1,7 +1,9 @@
 # 💪 FitLog — Workout Library
+**Train with intent. Log every set.**
 
-A dark, no-nonsense gym companion built with Next.js. Pick a lift, lock it into today's plan, and watch the week's work add up.
+A dark, no-nonsense gym companion built with Next.js. Browse a curated workout library, lock lifts into today’s plan, save favorites, and track your session — all in a clean, responsive dark UI.
 
+---
 ## Description
 
 FitLog is a responsive workout library and planning app. Browse twelve curated lifts covering every major muscle group, add them to your daily plan (capped at 5), save favorites for later, mark lifts as done, and track total exercises, minutes, and calories — all with a clean dark UI and lime accent.
@@ -31,8 +33,6 @@ FitLog is a responsive workout library and planning app. Browse twelve curated l
 npm install
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000).
 
 ## API
 
