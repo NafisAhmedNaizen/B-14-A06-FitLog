@@ -91,7 +91,7 @@ export default function WorkoutDetailPage() {
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <div className="grid gap-10 lg:grid-cols-2">
         {/* Left - Image */}
-        <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#111] lg:aspect-auto lg:min-h-[500px]">
+        <div className="relative aspect-square overflow-hidden rounded-2xl bg-[#111] lg:aspect-auto lg:min-h-125">
           <Image
             src={workout.image}
             alt={workout.name}
