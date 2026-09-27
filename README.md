@@ -63,7 +63,7 @@ npm run dev
 
 ## Deployment
 
-Deploy to Vercel, Netlify, or Cloudflare Pages. The app is a pure client-side data consumer and works with static export if desired.
+Deployed to Vercel. The app is a pure client-side data consumer and works with static export if desired.
 
 ## License
-
+MIT
