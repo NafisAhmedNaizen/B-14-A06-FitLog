@@ -45,14 +45,18 @@ FitLog is a responsive workout library and planning app. Browse twelve curated l
 7. **404 Page & Loading States** — Proper not-found route and loading spinner while data is fetched.
 8. **Persistence** — Plan and saved lists survive page reloads via localStorage.
 
-## Getting Started
-
+---
+## 🚀 Getting Started
 ```bash
+# Install dependencies
 npm install
-npm run dev
-```
 
-## API
+# Run development server
+npm run dev
+
+---
+
+##API
 
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id`
